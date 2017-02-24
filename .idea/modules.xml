@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PaperPlane-master.iml" filepath="$PROJECT_DIR$/PaperPlane-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appmvvm/appmvvm.iml" filepath="$PROJECT_DIR$/appmvvm/appmvvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apptododatabinding/apptododatabinding.iml" filepath="$PROJECT_DIR$/apptododatabinding/apptododatabinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apptodomvp/apptodomvp.iml" filepath="$PROJECT_DIR$/apptodomvp/apptodomvp.iml" />
+    </modules>
+  </component>
+</project>
