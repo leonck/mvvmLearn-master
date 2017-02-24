@@ -20,6 +20,9 @@ public class DetailContractMy {
         void showResult(String result);
         void showRefresh();
         void showResultWithoutBody(String url);
+
+
+
     }
 
     interface Presenter extends BasePresenter{
