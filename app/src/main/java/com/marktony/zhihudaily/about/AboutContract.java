@@ -28,6 +28,9 @@ public interface AboutContract {
 
     interface View extends BaseView<Presenter>{
 
+
+
+
         void showRateError();
 
         void showFeedbackError();
