@@ -22,6 +22,10 @@ public class DetailContractMytest {
         void showResultWithoutBody(String url);
     }
 
+
+
+
+
     interface Presenter extends BasePresenter{
         void requestData();
         void openUrl(WebView view, String url);
