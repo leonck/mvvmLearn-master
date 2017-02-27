@@ -1,1 +1,1 @@
-include ':app', ':apptodomvp', ':apptododatabinding', ':appmvvm'
+include ':app', ':apptodomvp', ':appdatabinding'
